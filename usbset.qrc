@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="USBSet">
+    <file>usb02.ico</file>
+  </qresource>
+</RCC>
